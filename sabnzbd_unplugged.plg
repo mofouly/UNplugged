@@ -32,7 +32,7 @@ I have probably missed some credits here, not intentional but I do not have a pe
 </FILE>
 <FILE Name="/boot/packages/unrar-5.4.5-i486-1alien.tgz" Run="upgradepkg --install-new">
 <URL>http://www.slackware.com/~alien/slackbuilds/unrar/pkg/13.37/unrar-5.4.5-i486-1alien.tgz</URL>
-<MD5>26b4b3d9a10cb8bf7a4dd746de30e80b</MD5>
+<MD5>6f7b145b44e4b6bfac6298e19223d6cc</MD5>
 </FILE>
 <FILE Name="/boot/packages/infozip-6.0-i486-1.txz" Run="upgradepkg --install-new">
 <URL>http://slackware.cs.utah.edu/pub/slackware/slackware-13.37/slackware/a/infozip-6.0-i486-1.txz</URL>
