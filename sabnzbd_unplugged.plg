@@ -47,7 +47,7 @@ I have probably missed some credits here, not intentional but I do not have a pe
 <MD5>e02b8f7ff139e51c101721440068c455</MD5>
 </FILE>
 <FILE Name="/boot/packages/par2cmdline_tbb-0.4-i486-1kh.tgz" Run="upgradepkg --install-new">
-<URL>http://unraid-greenleaf-repository.googlecode.com/files/par2cmdline_tbb-0.4-i486-1kh.tgz</URL>
+<URL>https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/unraid-greenleaf-repository/par2cmdline_tbb-0.4-i486-1kh.tgz</URL>
 <MD5>c5a5550888ae009531f133a33ed85be7</MD5>
 </FILE>
 <FILE Name="/boot/config/plugins/sabnzbd/sabnzbd.png">
